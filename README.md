@@ -20,3 +20,6 @@ ICPC Regional Contest 2025
 ## 📫 Contact
 * Email: 24521287@gm.uit.edu.vn
 * Facebook: https://www.facebook.com/tranleanhphaa
+
+## 📊 GitHub stats
+![Stats](https://github-readme-stats.vercel.app/api?username=anhphant)
