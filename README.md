@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Pha
 
-<!--
-**anhphant/anhphant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at UIT
+💡 Interested in Artificial Intelligence, Optimization, and Competitive Programming
 
-Here are some ideas to get you started:
+## 🚀 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Traveling Thief Problem (ThOP)
+* Metaheuristics (ILS, SA, ACO)
+
+## 🛠️ Skills
+* Languages: Python, C++, Java
+* Tools: Git, Linux
+
+## 🔥 Featured Projects
+
+## 📈 Goals
+ICPC Regional Contest 2025
+
+## 📫 Contact
+* Email: 24521287@gm.uit.edu.vn
+* Facebook: https://www.facebook.com/tranleanhphaa
